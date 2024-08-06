@@ -1,4 +1,7 @@
-## Hi there 👋
+Hey there 👋. I’m a User-Centered Software Engineer based in Philadelpha who sometimes is also known as gvb. I specialize in developing systems, interfaces, and products that are efficient, intuitive, and enjoyable.
+
+Currently looking for new opportunities.
+
 
 <!--
 **gregvanbrug/gregvanbrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
