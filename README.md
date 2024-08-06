@@ -1,4 +1,4 @@
-Hey there 👋. I’m a User-Centered Software Engineer based in Philadelpha who sometimes is also known as gvb. I specialize in developing systems, interfaces, and products that are efficient, intuitive, and enjoyable.
+Hey there 👋. I’m a User-Centered Software Engineer who sometimes is also known as gvb. I specialize in developing systems, interfaces, and products that are efficient, intuitive, and enjoyable.
 
 Currently looking for new opportunities.
 
